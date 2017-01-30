@@ -1,0 +1,13 @@
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\chromedriver.exe
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\chromedriver-license.txt
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\TestExplorer.exe.config
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\TestExplorer.exe
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\TestExplorer.pdb
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\nunit.framework.dll
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\WebDriver.dll
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\WebDriver.Support.dll
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\nunit.framework.xml
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\WebDriver.xml
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\bin\Debug\WebDriver.Support.xml
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\obj\Debug\TestExplorer.exe
+c:\users\александр\documents\visual studio 2015\Projects\TestExplorer\TestExplorer\obj\Debug\TestExplorer.pdb
